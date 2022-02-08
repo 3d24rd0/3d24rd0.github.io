@@ -5,9 +5,10 @@ title: ¡¡ HELLO WORD !!
 img_path: /assets/2015/hello-word/
 
 categories:
-- Sin categoría
-post_format:
-- Imagen
+- Blog
+
+tags:
+- Blog
 
 image:
   src: Logo_EnConstruccion.jpg
@@ -15,5 +16,3 @@ image:
 #   height: 400   # in pixels
   alt: image alternative text
 ---
-
-![Desktop View](Logo_EnConstruccion.jpg){: .shadow }

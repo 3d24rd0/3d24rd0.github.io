@@ -2,10 +2,11 @@
 date: 2015-08-19 20:19:07+00:00
 title: ¡¡ HELLO WORD !!
 
-img_path: /assets/2015/hello-word/
+img_path: /assets/yami/hello-word/
 
 categories:
 - Blog
+- やみのきし
 
 tags:
 - Blog
